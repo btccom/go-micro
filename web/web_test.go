@@ -8,9 +8,9 @@ import (
 	"time"
 
 	"github.com/micro/cli/v2"
-	"github.com/micro/go-micro/v2"
-	"github.com/micro/go-micro/v2/logger"
-	"github.com/micro/go-micro/v2/web"
+	"github.com/btccom/go-micro/v2"
+	"github.com/btccom/go-micro/v2/logger"
+	"github.com/btccom/go-micro/v2/web"
 )
 
 func TestWeb(t *testing.T) {
